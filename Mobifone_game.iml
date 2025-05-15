@@ -3,7 +3,6 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/BaiTap2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Bài Tập 1" isTestSource="false" packagePrefix="com.example.baitap1" />
     </content>
     <orderEntry type="inheritedJdk" />
